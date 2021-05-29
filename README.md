@@ -19,8 +19,6 @@
 
 - 🤖 Codechef Profile [https://www.codechef.com/users/anixane](https://www.codechef.com/users/anixane)
 
-- 👾 Codechef Profile [https://www.codechef.com/users/anixane](https://www.codechef.com/users/anixane)
-
 - 🛰 Leetcode Profile [https://leetcode.com/anixane/](https://leetcode.com/anixane/)
 
 <h3 align="left">Languages and Tools:</h3>
